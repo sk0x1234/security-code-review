@@ -18,7 +18,7 @@ My personal collection of resources (mostly tools and training materials) for so
 
 ### Learning Resources
 
-- [[Blog Post] Secure Code Review (MITRE's System Engineering Guide)](https://www.mitre.org/publications/systems-engineering-guide/enterprise-engineering/systems-engineering-for-mission-assurance/secure-code-review) : good introduction with definitions.
+- [[Blog Post] Secure Code Review (MITRE's System Engineering Guide)]([https://www.mitre.org/publications/systems-engineering-guide/enterprise-engineering/systems-engineering-for-mission-assurance/secure-code-review](https://www.mitre.org/sites/default/files/publications/se-guide-book-interactive.pdf)) : good introduction with definitions.
 - [[Conference] OWASP Appsec Day - The Absolute AppSec Secure Code Review Framework](https://www.youtube.com/watch?v=Kepd1HsoE8o) : strong focus on methodology.
 - [[Conference] Source code security audit speed run by Eldar Marcussen](https://www.youtube.com/watch?v=hpYjjj1UAXs) : methodology and tooling.
 - [[Guide] OWASP Code Review Guide (currently v2)](https://owasp.org/www-pdf-archive/OWASP_Code_Review_Guide_v2.pdf) : (almost) exhaustive guide on secure code review.
